@@ -1,0 +1,30 @@
+/*
+ * v1.1 edit: added style to application.
+ */
+#splitPane
+{
+	-fx-background-image:url("/images/backIcon1.png");
+}
+
+#outputField
+{
+	-fx-font-family: serif;
+}
+
+.textStyle
+{
+	-fx-font-family: serif;	
+	-fx-border-style: solid;	
+	-fx-border-radius: 3;
+	-fx-border-color: #00ff9d;
+}
+
+.button
+{
+	-fx-background-color: #00ff9d;
+}
+
+#aboutPane
+{
+	-fx-background-image:url("/images/backIcon1.png");
+}
